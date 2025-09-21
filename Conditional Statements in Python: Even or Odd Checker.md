@@ -16,3 +16,8 @@ To write a Python program to check whether the given number is **even** or **odd
 ## Output
 
 ## Result
+a=int(input())
+if(a%2==0):
+    print("EVEN")
+else:
+    print("ODD")
